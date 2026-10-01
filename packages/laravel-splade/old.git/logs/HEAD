@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 cddbfe62a074150026e793da239b96dd50a5adca Karim Ali <kali2@ualberta.ca> 1714769838 -0600	clone: from https://github.com/protonemedia/laravel-splade
+cddbfe62a074150026e793da239b96dd50a5adca 18d5c2475f8842825d0d543e92ba0d00beddc85e Karim Ali <kali2@ualberta.ca> 1714769908 -0600	checkout: moving from main to tags/1.4.19
+18d5c2475f8842825d0d543e92ba0d00beddc85e 18d5c2475f8842825d0d543e92ba0d00beddc85e Karim Ali <kali2@ualberta.ca> 1714770071 -0600	checkout: moving from 18d5c2475f8842825d0d543e92ba0d00beddc85e to dev-dev-master
+18d5c2475f8842825d0d543e92ba0d00beddc85e 0000000000000000000000000000000000000000 Karim Ali <kali2@ualberta.ca> 1714771966 -0600	Branch: renamed refs/heads/dev-dev-master to refs/heads/master
+0000000000000000000000000000000000000000 18d5c2475f8842825d0d543e92ba0d00beddc85e Karim Ali <kali2@ualberta.ca> 1714771966 -0600	Branch: renamed refs/heads/dev-dev-master to refs/heads/master
